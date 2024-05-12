@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "titulo": "Amor Amarillo",
+    "artista": "Gustavo Cerati",
+    "tono": "1"
+  },
+  { "id": 2, "titulo": "Es Épico", "artista": "Canserbero", "tono": "2" },
+  { "id": 3, "titulo": "Verbal Streets", "artista": "ChysteMC", "tono": "3" }
+]
